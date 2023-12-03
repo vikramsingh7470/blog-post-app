@@ -1,0 +1,9 @@
+.my-img {
+  background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRE5smqw973hm7PzV24efDX90zgsknXjWYEzA&usqp=CAU);
+  width: 18rem;
+  height: 10rem;
+}
+
+.home {
+  min-height: 80.5vh;
+}

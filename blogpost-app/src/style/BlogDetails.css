@@ -1,0 +1,15 @@
+.blogDetails-img {
+  height: 50vh;
+  object-fit: cover;
+  background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRE5smqw973hm7PzV24efDX90zgsknXjWYEzA&usqp=CAU);
+}
+
+.rounded-border {
+  border-radius: 20px;
+}
+
+hr {
+  background-color: #343a40;
+  border: 1.3px solid #343a40;
+  color: #343a40;
+}
